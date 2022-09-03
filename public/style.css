@@ -3,6 +3,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    /* background-image: url('girl.png'); */
+    /* background-color: #8F8BE8; */
 }
 
 body {
@@ -10,7 +12,9 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #F8F8F8;
+    /* background: #F8F8F8; */
+    /* background-image: "https://crew.bet/wp-content/uploads/2015/07/bet-blocks-bg.png?id=1563"; */
+    background-image: url('girl.png');
     font-family: 'Roboto', sans-serif;
 }
 section.chat__section {
@@ -26,7 +30,7 @@ section.chat__section {
     align-items: center;
 }
 .brand h1 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 20px;
     color: #444;
     margin-left: 10px;
